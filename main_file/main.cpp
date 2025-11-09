@@ -65,6 +65,5 @@ int main() {
     // Example usage:
     list_directory(current_path);
     
-    // You can add interactive command handling here
     return 0;
 }
